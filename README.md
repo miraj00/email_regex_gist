@@ -23,5 +23,6 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ![Screenshot of web page](Develop/regex_tutorial.png)
 
 
+[URL of the Github gist](https://gist.github.com/miraj00/b0aba491fa9f143ab220bb306fe90d8c)
 
-[Please click here to deploy application](https://github.com/miraj00/email_regex_gist)
+[URL of the Github Link](https://github.com/miraj00/email_regex_gist)
